@@ -1,0 +1,181 @@
+text,intent,source,language_style,split
+Is a standard room available on Monday?,room_availability,synthetic,English,train
+Do you have any rooms free from Tuesday?,room_availability,synthetic,Kinyarwanda,train
+Can I check room availability for Friday?,room_availability,synthetic,mixed,train
+Are there vacant rooms for two guests on Saturday?,room_availability,synthetic,SMS-style,train
+Any single room open on tomorrow?,room_availability,synthetic,English,train
+Do you have a double room free this weekend?,room_availability,synthetic,English,train
+Room iraboneka ku wa Monday?,room_availability,synthetic,Kinyarwanda,test
+Ese mufite chambre iboneka ku Tuesday?,room_availability,synthetic,mixed,test
+Ndashaka kumenya niba hari icyumba kiri vacant.,room_availability,synthetic,SMS-style,test
+Mbese hari rooms zihari ejo?,room_availability,synthetic,English,train
+Murafite icyumba cy'abantu babiri ku tomorrow?,room_availability,synthetic,English,train
+Availability ya room ku wa 2026-11-10?,room_availability,synthetic,Kinyarwanda,train
+Any room free tmrw?,room_availability,synthetic,mixed,train
+Check avail for 2 pax pls,room_availability,synthetic,SMS-style,train
+Need to know if rooms are open on Friday,room_availability,synthetic,English,train
+Is there vacancy for one night?,room_availability,synthetic,English,train
+Could you see if a family room is available?,room_availability,synthetic,Kinyarwanda,train
+Do you have availability this Friday?,room_availability,synthetic,mixed,train
+Mbwira niba icyumba kiboneka weekend.,room_availability,synthetic,SMS-style,train
+Room irahari tonight?,room_availability,synthetic,English,train
+Can u check room for 2 on Friday?,room_availability,synthetic,English,train
+Vacancy check for next Monday please,room_availability,synthetic,Kinyarwanda,train
+Ese room y'abantu 3 iraboneka?,room_availability,synthetic,mixed,train
+Ndashaka kureba rooms zihari muri weekend.,room_availability,synthetic,SMS-style,train
+Any vacancy ku wa gatandatu?,room_availability,synthetic,English,train
+Can I get availability for a queen room?,room_availability,synthetic,English,test
+Are rooms fully booked on Friday?,room_availability,synthetic,Kinyarwanda,train
+Room available? need 1 night,room_availability,synthetic,mixed,test
+Murafite rooms available uyu munsi?,room_availability,synthetic,SMS-style,train
+Please check if a twin room is free,room_availability,synthetic,English,test
+I want to book a room for Monday.,room_booking,synthetic,English,train
+Please reserve a double room for two guests.,room_booking,synthetic,Kinyarwanda,train
+Book me a single room for one night.,room_booking,synthetic,mixed,train
+Ndashaka kubookinga icyumba ku wa Saturday.,room_booking,synthetic,SMS-style,train
+Ndifuza gufata chambre y'abantu babiri.,room_booking,synthetic,English,train
+Can I make a reservation for a family room?,room_booking,synthetic,English,train
+Please book one queen room from Monday.,room_booking,synthetic,Kinyarwanda,test
+Ndashaka room kuva ku wa Tuesday.,room_booking,synthetic,mixed,train
+Reserve a room for me pls.,room_booking,synthetic,SMS-style,train
+Can you help me book accommodation?,room_booking,synthetic,English,test
+Book 2 nights for 2 people starting Friday.,room_booking,synthetic,English,train
+Ndashaka gufata room y'ijoro rimwe.,room_booking,synthetic,Kinyarwanda,train
+Can u book a twin room for tomorrow?,room_booking,synthetic,mixed,test
+Need a room booking for 3 guests.,room_booking,synthetic,SMS-style,train
+Make reservation ya room ku wa Friday.,room_booking,synthetic,English,train
+Please confirm a new booking for one room.,room_booking,synthetic,English,train
+Ndifuza kubika icyumba cya single.,room_booking,synthetic,Kinyarwanda,train
+Book room for me and my wife next week.,room_booking,synthetic,mixed,train
+Can I reserve a standard room tonight?,room_booking,synthetic,SMS-style,test
+Room booking pls for 2 pax,room_booking,synthetic,English,train
+Ndashaka kubookinga chambre ya family.,room_booking,synthetic,English,train
+Help me reserve accommodation for Saturday.,room_booking,synthetic,Kinyarwanda,train
+"Book me 1 room, 2 nights, thx",room_booking,synthetic,mixed,train
+Please arrange a hotel room for 2026-11-10.,room_booking,synthetic,SMS-style,train
+Fata icyumba cy'abantu babiri ku wa Monday.,room_booking,synthetic,English,train
+Can we make a reservation for a double?,room_booking,synthetic,English,test
+Ndashaka room y'iminsi ibiri.,room_booking,synthetic,Kinyarwanda,train
+New booking for 1 guest please,room_booking,synthetic,mixed,test
+Muramfasha kubika icyumba?,room_booking,synthetic,SMS-style,train
+Reserve 1 room for tomorrow night,room_booking,synthetic,English,train
+I need to change my booking date to Monday.,booking_modification,synthetic,English,train
+Can I move my reservation to Friday?,booking_modification,synthetic,Kinyarwanda,train
+Please update my check-in date.,booking_modification,synthetic,mixed,train
+Ndashaka guhindura itariki ya booking yanjye.,booking_modification,synthetic,SMS-style,train
+Change room type from single to double please.,booking_modification,synthetic,English,train
+Can you modify my reservation for two guests?,booking_modification,synthetic,English,train
+Please extend my stay by one night.,booking_modification,synthetic,Kinyarwanda,train
+Ndashaka kongera ijoro rimwe kuri booking.,booking_modification,synthetic,mixed,train
+Update my booking to 3 guests.,booking_modification,synthetic,SMS-style,train
+Can I shift my check-in to tomorrow?,booking_modification,synthetic,English,test
+Change my reservation date pls,booking_modification,synthetic,English,train
+Modify booking ref ABC123 to next week.,booking_modification,synthetic,Kinyarwanda,train
+Ndashaka guhindura chambre nkajya muri double.,booking_modification,synthetic,mixed,train
+Please change checkout date to Monday.,booking_modification,synthetic,SMS-style,train
+Can u update the guest count to 2?,booking_modification,synthetic,English,test
+Move my booking from 10th to 12th.,booking_modification,synthetic,English,test
+Need to amend my hotel reservation.,booking_modification,synthetic,Kinyarwanda,train
+Booking yanjye muyihindurire date.,booking_modification,synthetic,mixed,train
+Please add one more night to my stay.,booking_modification,synthetic,SMS-style,train
+Can I change from twin room to family room?,booking_modification,synthetic,English,train
+Update check in time if possible,booking_modification,synthetic,English,train
+Ndifuza guhindura umubare w'abashyitsi.,booking_modification,synthetic,Kinyarwanda,train
+Change date ya reservation to Saturday.,booking_modification,synthetic,mixed,train
+Can you edit my existing booking?,booking_modification,synthetic,SMS-style,train
+Pls extend checkout by 1 day,booking_modification,synthetic,English,train
+Modify my room booking for next month.,booking_modification,synthetic,English,test
+Ndashaka guhindura igihe nzaziraho.,booking_modification,synthetic,Kinyarwanda,train
+Change booking to 2 nights instead of 1.,booking_modification,synthetic,mixed,test
+Can I update the room category?,booking_modification,synthetic,SMS-style,test
+Please amend my reservation details,booking_modification,synthetic,English,train
+I want to cancel my hotel booking.,booking_cancellation,synthetic,English,train
+Please cancel my reservation for Friday.,booking_cancellation,synthetic,Kinyarwanda,train
+How can I cancel my room booking?,booking_cancellation,synthetic,mixed,train
+Ndashaka guhagarika booking yanjye.,booking_cancellation,synthetic,SMS-style,train
+Ndifuza gusiba reservation nakoze.,booking_cancellation,synthetic,English,train
+Cancel my double room reservation please.,booking_cancellation,synthetic,English,train
+Please remove my booking from the system.,booking_cancellation,synthetic,Kinyarwanda,test
+Can you cancel booking ref ABC123?,booking_cancellation,synthetic,mixed,test
+Cancel my stay starting tomorrow.,booking_cancellation,synthetic,SMS-style,train
+Ndashaka gukuraho booking y'icyumba.,booking_cancellation,synthetic,English,train
+Need to cancel my hotel room asap,booking_cancellation,synthetic,English,test
+Can I get my reservation cancelled?,booking_cancellation,synthetic,Kinyarwanda,train
+Pls cancel my booking thx,booking_cancellation,synthetic,mixed,train
+Cancel reservation ya weekend.,booking_cancellation,synthetic,SMS-style,train
+Please withdraw my room reservation.,booking_cancellation,synthetic,English,test
+"Sinshaka gukomeza booking, nyihagarike.",booking_cancellation,synthetic,English,train
+How do I cancel a reservation?,booking_cancellation,synthetic,Kinyarwanda,train
+Cancel 1 room for two guests,booking_cancellation,synthetic,mixed,train
+Ndashaka guhagarika icyumba nari nabitse.,booking_cancellation,synthetic,SMS-style,train
+Please cancel my booking for next week.,booking_cancellation,synthetic,English,test
+Can u delete my hotel reservation?,booking_cancellation,synthetic,English,test
+Booking yanjye muyihagarike please.,booking_cancellation,synthetic,Kinyarwanda,train
+Need cancellation for booking number 7788.,booking_cancellation,synthetic,mixed,train
+Stop my reservation from 2026-11-10.,booking_cancellation,synthetic,SMS-style,train
+Cancel the room I booked yesterday.,booking_cancellation,synthetic,English,train
+Ndifuza ko booking yanjye isibwa.,booking_cancellation,synthetic,English,train
+Cancel my stay pls,booking_cancellation,synthetic,Kinyarwanda,train
+Please terminate my room reservation.,booking_cancellation,synthetic,mixed,train
+Can you help with cancelling my booking?,booking_cancellation,synthetic,SMS-style,train
+Room booking cancel kubera impamvu zanjye.,booking_cancellation,synthetic,English,train
+Does the hotel have free Wi-Fi?,hotel_amenities,synthetic,English,train
+What facilities are available at the hotel?,hotel_amenities,synthetic,Kinyarwanda,train
+Do you have a swimming pool?,hotel_amenities,synthetic,mixed,test
+Murafite internet ya Wi-Fi?,hotel_amenities,synthetic,SMS-style,train
+Ese hotel ifite piscine?,hotel_amenities,synthetic,English,train
+Do rooms include breakfast?,hotel_amenities,synthetic,English,train
+Is there free parking for guests?,hotel_amenities,synthetic,Kinyarwanda,test
+Mbese mufite restaurant muri hotel?,hotel_amenities,synthetic,mixed,test
+Does the hotel offer airport shuttle?,hotel_amenities,synthetic,SMS-style,train
+Are there gym facilities?,hotel_amenities,synthetic,English,train
+WiFi irimo mu cyumba?,hotel_amenities,synthetic,English,train
+Do you provide laundry service?,hotel_amenities,synthetic,Kinyarwanda,test
+Is breakfast included in the room price?,hotel_amenities,synthetic,mixed,train
+Mufite salle de sport?,hotel_amenities,synthetic,SMS-style,test
+Does the hotel have air conditioning?,hotel_amenities,synthetic,English,test
+Can guests use the conference room?,hotel_amenities,synthetic,English,train
+Do you offer room service?,hotel_amenities,synthetic,Kinyarwanda,train
+Parking ihari ku bashyitsi?,hotel_amenities,synthetic,mixed,train
+Is there a lift/elevator in the building?,hotel_amenities,synthetic,SMS-style,train
+Murafite hot water mu byumba?,hotel_amenities,synthetic,English,train
+Any pool and gym available?,hotel_amenities,synthetic,English,train
+Does the hotel provide towels?,hotel_amenities,synthetic,Kinyarwanda,train
+Can I get breakfast at the hotel?,hotel_amenities,synthetic,mixed,train
+Internet yaba free?,hotel_amenities,synthetic,SMS-style,train
+Is there a kids play area?,hotel_amenities,synthetic,English,train
+Do you have a bar or restaurant?,hotel_amenities,synthetic,English,train
+Ese mufite generator?,hotel_amenities,synthetic,Kinyarwanda,train
+Do rooms have TV and AC?,hotel_amenities,synthetic,mixed,train
+Tell me about hotel services pls,hotel_amenities,synthetic,SMS-style,train
+Facilities zanyu ni izihe?,hotel_amenities,synthetic,English,train
+Who won the football match yesterday?,out_of_scope,synthetic,English,train
+Can you write my school essay?,out_of_scope,synthetic,Kinyarwanda,train
+What is the weather tomorrow?,out_of_scope,synthetic,mixed,train
+Help me solve this algebra question.,out_of_scope,synthetic,SMS-style,train
+Ndashaka kumenya amakuru ya politiki.,out_of_scope,synthetic,English,train
+Translate this paragraph into French.,out_of_scope,synthetic,English,train
+How do I repair my laptop?,out_of_scope,synthetic,Kinyarwanda,train
+Tell me a joke please.,out_of_scope,synthetic,mixed,train
+Can you send money to my account?,out_of_scope,synthetic,SMS-style,train
+What's the latest news today?,out_of_scope,synthetic,English,train
+Ndashaka akazi muri Kigali.,out_of_scope,synthetic,English,train
+Explain photosynthesis to me.,out_of_scope,synthetic,Kinyarwanda,train
+Where can I buy a new phone?,out_of_scope,synthetic,mixed,test
+Book me a flight ticket.,out_of_scope,synthetic,SMS-style,train
+Can you calculate my tax?,out_of_scope,synthetic,English,test
+Who is the president of Rwanda?,out_of_scope,synthetic,English,test
+Help me debug my Python code.,out_of_scope,synthetic,Kinyarwanda,train
+Give me a recipe for pancakes.,out_of_scope,synthetic,mixed,test
+Find a taxi to the airport.,out_of_scope,synthetic,SMS-style,train
+What's the exchange rate today?,out_of_scope,synthetic,English,train
+Teach me how to play guitar.,out_of_scope,synthetic,English,test
+Ndashaka kwishyura amashuri.,out_of_scope,synthetic,Kinyarwanda,train
+Can you recommend a movie?,out_of_scope,synthetic,mixed,train
+How do I apply for a passport?,out_of_scope,synthetic,SMS-style,train
+Tell me about machine learning.,out_of_scope,synthetic,English,train
+Please order a pizza for me.,out_of_scope,synthetic,English,train
+Can you check my bank balance?,out_of_scope,synthetic,Kinyarwanda,train
+Find me a job vacancy.,out_of_scope,synthetic,mixed,train
+What's the time in Tokyo?,out_of_scope,synthetic,SMS-style,train
+Help me with my biology homework.,out_of_scope,synthetic,English,test
